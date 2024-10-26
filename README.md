@@ -25,5 +25,5 @@ After taking many months off from using my Arduino Uno I decided to try and buil
 <hr>
 
 <h1> Image of Built Circuit: </h1>
-<img src="![ArduinoCalculator](https://github.com/user-attachments/assets/aaaf084c-0bda-4107-ba8e-0236e8669272)"></img>
+<img src=""C:\Users\Nick\Pictures\ArduinoCalculator.jpg""></img>
 
