@@ -21,3 +21,9 @@ After taking many months off from using my Arduino Uno I decided to try and buil
   <li>Female and Male Connecting Wires </li>
   <li>9 Volt Battery </li>
 </ul>
+
+<hr>
+
+<h1> Image of Built Circuit: </h1>
+<img src="![ArduinoCalculator](https://github.com/user-attachments/assets/aaaf084c-0bda-4107-ba8e-0236e8669272)">
+
