@@ -19,4 +19,5 @@ After taking many months off from using my Arduino Uno I decided to try and buil
   <li>Arduino Uno R3 Board </li>
   <li>830 Tie-Point Breadboard </li>
   <li>Female and Male Connecting Wires </li>
+  <li>9 Volt Battery </li>
 </ul>
